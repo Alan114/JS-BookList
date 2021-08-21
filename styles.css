@@ -1,0 +1,28 @@
+.container {
+    max-width: 33rem;
+    margin: 3rem auto;
+    background: linear-gradient(60deg, rgb(190, 197, 204), rgb(82, 223, 233));
+    padding: 2rem;
+    border-radius: 2rem;
+  }
+  
+  h2 {
+    margin: 2rem 0;
+  }
+  
+  label {
+    font-size: 2rem;
+  }
+  
+  ul {
+    max-width: 23rem;
+    margin: 0 2rem;
+  }
+  
+  li {
+    margin: 2rem 0;
+    border: rgb(123, 216, 240) 1px solid;
+    padding: 1rem;
+    background-color: rgb(236, 245, 244);
+  }
+  
